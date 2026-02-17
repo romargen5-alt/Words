@@ -17,7 +17,7 @@ const words = [
     "Error", "Bug", "Fix", "Update", "Upgrade", "Version",
     "Development", "Design", "Interface", "Experience", "Responsive", "Mobile",
     "Desktop", "Tablet", "Data", "Information", "Analytics", "Artificial",
-    "Intelligence", "Machine", "Learning", "Neural", "Model", "Training","Words"
+    "Intelligence", "Machine", "Learning", "Neural", "Model", "Training","Words","top"
 ];
 
 let currentIndex = 0;
